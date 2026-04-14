@@ -19,5 +19,5 @@
 
 ### 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tais-santos](https://www.linkedin.com/in/ta%C3%ADs-santos-3202931b1/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ta%C3%ADs-santos-3202931b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tais.santos.dev@gmail.com)
