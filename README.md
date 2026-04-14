@@ -4,7 +4,7 @@
 <br/>
 
 🧪 **4+ years** building scalable test frameworks for web, mobile & API  
-⚡ Specialized in **Playwright + TypeScript** with CI/CD integration  
+⚡ Strong experience in **Playwright + TypeScript** with CI/CD integration  
 🤖 Pioneering **AI-assisted testing** — test generation, log analysis & agents  
 📋 **CTFL certified** · Scrum · BDD · Risk-based Testing  
 🌍 Based in **Brazil** — open to remote opportunities worldwide  
