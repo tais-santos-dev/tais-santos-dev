@@ -1,13 +1,19 @@
 <h1 align="center">Hi, I'm Taís Santos 👋</h1>
-<h3 align="center">QA Automation Engineer · Playwright · TypeScript · AI-Assisted Testing</h3>
+<h3 align="center">Software Development Engineer in Test (SDET) · Playwright · TypeScript · AI-Assisted Testing</h3>
+
+<p align="center">
+  <a href="https://taissantos.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <br/>
 
-🧪 **4+ years** building scalable test frameworks for web, mobile & API  
+🧪 **4+ years** building scalable test automation frameworks for web, mobile & API  
 ⚡ Strong experience in **Playwright + TypeScript** with CI/CD integration  
 🤖 Pioneering **AI-assisted testing** — test generation, log analysis & agents  
-📋 **CTFL certified** · Scrum · BDD · Risk-based Testing  
-🌍 Based in **Brazil** — open to remote opportunities worldwide  
+📋 **ISTQB CTFL certified** · Scrum · BDD · Risk-based Testing  
+🌍 Open to **remote opportunities** worldwide  
 
 <br/>
 
@@ -25,5 +31,6 @@
 
 ### 📬 Connect with me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://taissantos.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ta%C3%ADs-santos-3202931b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tais.santos.dev@gmail.com)
